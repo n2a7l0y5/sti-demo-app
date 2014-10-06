@@ -1,0 +1,3 @@
+class CommonSecurity < NonDerivativeSecurity
+  
+end

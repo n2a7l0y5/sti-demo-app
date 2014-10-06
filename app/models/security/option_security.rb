@@ -1,0 +1,3 @@
+class OptionSecurity < DerivativeSecurity
+  
+end

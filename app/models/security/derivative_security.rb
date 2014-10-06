@@ -1,0 +1,3 @@
+class DerivativeSecurity < Security
+  
+end

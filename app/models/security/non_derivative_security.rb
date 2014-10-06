@@ -1,0 +1,3 @@
+class NonDerivativeSecurity < Security
+  
+end
